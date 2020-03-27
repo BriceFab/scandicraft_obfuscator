@@ -1,0 +1,5 @@
+proguard/in/*
+proguard/out/*
+proguard/libs/*
+proguard/Proguard/examples/*
+.idea
